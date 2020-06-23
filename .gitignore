@@ -1,0 +1,6 @@
+/data
+/venv
+/topo/gml/zoo
+*.pyc
+gurobi.log
+
