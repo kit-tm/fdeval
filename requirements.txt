@@ -6,7 +6,7 @@ decorator==4.3.0
 geographiclib==1.49
 geopy==1.18.1
 kiwisolver==1.0.1
-Mako==1.0.7
+Mako==1.2.2
 MarkupSafe==1.1.1
 matplotlib==3.0.2
 networkx==2.2
